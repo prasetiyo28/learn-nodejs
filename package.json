@@ -1,0 +1,27 @@
+{
+  "name": "belajar_npm",
+  "version": "1.0.0",
+  "description": "latihan node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo \"Hello World\"",
+    "server": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasetiyo28/learn-nodejs.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "prasetiyo28",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasetiyo28/learn-nodejs/issues"
+  },
+  "homepage": "https://github.com/prasetiyo28/learn-nodejs#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
